@@ -1,0 +1,6 @@
+# Exclude PyTorch model checkpoints
+*.pt
+*.pth
+
+# Exclude Safetensors weights
+*.safetensors
